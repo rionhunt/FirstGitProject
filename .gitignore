@@ -1,2 +1,5 @@
 build/
 *.txt
+
+
+(These are the rules: tells github which file it should not track.)
